@@ -15,6 +15,17 @@ Analysis of Drug Review
 ## 15 most Common Conditions
 ![download (8)](https://user-images.githubusercontent.com/30586187/89772481-b081ff00-db1f-11ea-88fb-1ba1a8872130.png)
 
+## Some of most common Conditions are mentioned below:
+- Birth Control
+- Depression
+- Pain
+- Anxiety
+- Acne
+- Bipolar Disorder
+- Insomnia
+- Weight Loss
+- Obesity
+
 [Dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 
 ## Citation
